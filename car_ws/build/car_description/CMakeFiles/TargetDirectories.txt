@@ -1,0 +1,9 @@
+/home/migue/Desktop/proyectoRozo/car_ws/build/car_description/CMakeFiles/install/strip.dir
+/home/migue/Desktop/proyectoRozo/car_ws/build/car_description/CMakeFiles/install/local.dir
+/home/migue/Desktop/proyectoRozo/car_ws/build/car_description/CMakeFiles/install.dir
+/home/migue/Desktop/proyectoRozo/car_ws/build/car_description/CMakeFiles/list_install_components.dir
+/home/migue/Desktop/proyectoRozo/car_ws/build/car_description/CMakeFiles/rebuild_cache.dir
+/home/migue/Desktop/proyectoRozo/car_ws/build/car_description/CMakeFiles/edit_cache.dir
+/home/migue/Desktop/proyectoRozo/car_ws/build/car_description/CMakeFiles/test.dir
+/home/migue/Desktop/proyectoRozo/car_ws/build/car_description/CMakeFiles/car_description_uninstall.dir
+/home/migue/Desktop/proyectoRozo/car_ws/build/car_description/CMakeFiles/uninstall.dir

@@ -1,0 +1,2 @@
+Invoking command in '/home/migue/Desktop/proyectoVehiculo/car_ws/build/car_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/migue/Desktop/proyectoVehiculo/car_ws/build/car_description -- -j12 -l12
+Invoked command in '/home/migue/Desktop/proyectoVehiculo/car_ws/build/car_description' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/migue/Desktop/proyectoVehiculo/car_ws/build/car_description -- -j12 -l12
